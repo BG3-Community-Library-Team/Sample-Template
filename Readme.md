@@ -1,5 +1,5 @@
 # Sample Template Mod
-[![GitHub release](https://img.shields.io/github/v/tag/BG3-Community-Library-Team/Sample-Template?label=Latest%20Version)](https://GitHub.com/BG3-Community-Library-Team/Sample-Template/releases/) [![GitHub commits](https://img.shields.io/github/commits-since/BG3-Community-Library-Team/Sample-Template/1.0.0.0/main)](https://GitHub.com/BG3-Community-Library-Team/Sample-Template/commit/)
+[![GitHub release](https://img.shields.io/github/v/tag/BG3-Community-Library-Team/Sample-Template?label=Latest%20Version)](https://GitHub.com/BG3-Community-Library-Team/Sample-Template/releases/) [![GitHub commits](https://img.shields.io/github/commits-since/BG3-Community-Library-Team/Sample-Template/1.0.0/main)](https://GitHub.com/BG3-Community-Library-Team/Sample-Template/commit/)
 
 This is a Readme Template. Replace this paragraph with an introduction to your mod, and a short description to help users and potential collaborators understand understand it's purpose.
 
