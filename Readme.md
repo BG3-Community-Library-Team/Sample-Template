@@ -41,3 +41,4 @@ Installations. BG3 Mod Managers is by far the simplest method, and as such is re
 - The Baldur's Gate 3 Modding Community.
 - [https://github.com/ShinyHobo](ShinyHobo) for their work easing the process of creating .pak files.
 - Alana for the creation of the Mod Manager Compatibility Images.
+-Learning how to do this shiz
