@@ -3,8 +3,7 @@
 
 This is a Readme Template. Replace this paragraph with an introduction to your mod, and a short description to help users and potential collaborators understand understand it's purpose.
 
-## Note For Mod Authors:
-You're welcome to use this mod as a template for your own creations. In GitHub, hit the "Fork" button, and it will walk you through creating your own Repository, which you can Clone to your PC and start modding with.
+
 
 [![GitHub forks](https://img.shields.io/github/forks/BG3-Community-Library-Team/Sample-Template)](https://GitHub.com/BG3-Community-Library-Team/Sample-Template/network/)
 
