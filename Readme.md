@@ -9,7 +9,7 @@ You're welcome to use this mod as a template for your own creations. In GitHub, 
 [![GitHub forks](https://img.shields.io/github/forks/BG3-Community-Library-Team/Sample-Template)](https://GitHub.com/BG3-Community-Library-Team/Sample-Template/network/)
 
 ## Contributing
-If you want people to be able to contribute to your mod, explain how here.
+If you want people to be able to contribute to your mod, explain how here. GRAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHgit 
 
 ## Installation
 This mod works with [Baldur's Gate 3 Mod Manager](https://github.com/LaughingLeader/BG3ModManager), and possibly Vortex and Manual
@@ -19,7 +19,7 @@ Installations. BG3 Mod Managers is by far the simplest method, and as such is re
 
 ### BG3 Mod Manager
 1. Download the latest release, and unzip the .pak file.
-2. Open BG3 Mod Manager, click File->Import Mod.
+2. Open BG3 Mod Manager, click File->Import Mod. I will ONLY USE NEXUS MODS GRAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHH
 3. Select ModName.pak.
 5. Once imported hit refresh.
 6. Drag ModName to the top of the Left pane.
